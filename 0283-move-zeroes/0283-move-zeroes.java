@@ -7,13 +7,13 @@ class Solution {
                 break;
             }
         }
-        if (j == -1) return; // no zero found, nothing to do
+        if (j == -1) return; 
 
         for (int i = j + 1; i < nums.length; i++) {
             if (nums[i] != 0) {
                 int temp = nums[i];
                 nums[i] = nums[j];
-                nums[j] = temp;   // use temp here
+                nums[j] = temp;   
                 j++;
             }
         }
