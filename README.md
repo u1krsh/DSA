@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/u1krsh/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/u1krsh/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/u1krsh/DSA/tree/master/0036-valid-sudoku) |
+| [0075-sort-colors](https://github.com/u1krsh/DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/u1krsh/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/u1krsh/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/u1krsh/DSA/tree/master/0283-move-zeroes) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/u1krsh/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/u1krsh/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/u1krsh/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/u1krsh/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/u1krsh/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/u1krsh/DSA/tree/master/0283-move-zeroes) |
 ## Math
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/u1krsh/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/u1krsh/DSA/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/u1krsh/DSA/tree/master/0075-sort-colors) |
 ## Matrix
 |  |
 | ------- |
