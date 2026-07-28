@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/u1krsh/DSA/tree/master/0013-roman-to-integer) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/u1krsh/DSA/tree/master/3804-maximize-active-section-with-trade-ii) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/u1krsh/DSA/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/u1krsh/DSA/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/u1krsh/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/u1krsh/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/u1krsh/DSA/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Matrix
 |  |
 | ------- |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/u1krsh/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+## Counting Sort
+|  |
+| ------- |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/u1krsh/DSA/tree/master/3812-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
