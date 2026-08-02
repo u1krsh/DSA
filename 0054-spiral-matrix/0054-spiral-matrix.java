@@ -7,29 +7,28 @@ class Solution {
         int top = 0;
         int bottom = n-1;
         List<Integer> ans = new ArrayList<>();
-        while(left<=right && top<=bottom){
-            for(int i = left;i<=right;i++){
-                ans.add(arr[top][i]);
+        while(top<=bottom && left<=right){
+            for(int i = left; i<=right;i++){
+                    ans.add(arr[top][i]);
             }
             top++;
             for(int i = top;i<=bottom;i++){
                 ans.add(arr[i][right]);
             }
             right--;
-                if(top<=bottom){            
+            if(top<=bottom){
                 for(int i = right;i>=left;i--){
-                ans.add(arr[bottom][i]);
-                    }
-                bottom--;
+                    ans.add(arr[bottom][i]);
                 }
-
+                bottom--;
+            }
             if(left<=right){
-                for(int i = bottom; i>= top;i--){
+                for(int i = bottom; i>=top;i--){
                     ans.add(arr[i][left]);
                 }
                 left++;
             }
-
+            
         }
         return ans;
     }
