@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1522-stone-game-iii](https://github.com/u1krsh/DSA/tree/master/1522-stone-game-iii) |
 | [2156-stone-game-ix](https://github.com/u1krsh/DSA/tree/master/2156-stone-game-ix) |
 | [2383-add-two-integers](https://github.com/u1krsh/DSA/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/u1krsh/DSA/tree/master/2491-smallest-even-multiple) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/u1krsh/DSA/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/u1krsh/DSA/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/u1krsh/DSA/tree/master/3820-number-of-unique-xor-triplets-ii) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2491-smallest-even-multiple](https://github.com/u1krsh/DSA/tree/master/2491-smallest-even-multiple) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/u1krsh/DSA/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
