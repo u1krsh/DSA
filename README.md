@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/u1krsh/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/u1krsh/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/u1krsh/DSA/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/u1krsh/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/u1krsh/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/u1krsh/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/u1krsh/DSA/tree/master/0088-merge-sorted-array) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/u1krsh/DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/u1krsh/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/u1krsh/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/u1krsh/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/u1krsh/DSA/tree/master/0073-set-matrix-zeroes) |
 | [1677-matrix-diagonal-sum](https://github.com/u1krsh/DSA/tree/master/1677-matrix-diagonal-sum) |
 ## Divide and Conquer
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/u1krsh/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/u1krsh/DSA/tree/master/0059-spiral-matrix-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/u1krsh/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/u1krsh/DSA/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Counting Sort
