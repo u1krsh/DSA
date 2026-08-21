@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/u1krsh/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0909-stone-game](https://github.com/u1krsh/DSA/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/u1krsh/DSA/tree/master/1240-stone-game-ii) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/u1krsh/DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1522-stone-game-iii](https://github.com/u1krsh/DSA/tree/master/1522-stone-game-iii) |
 | [1965-sum-of-digits-in-base-k](https://github.com/u1krsh/DSA/tree/master/1965-sum-of-digits-in-base-k) |
 | [2156-stone-game-ix](https://github.com/u1krsh/DSA/tree/master/2156-stone-game-ix) |
