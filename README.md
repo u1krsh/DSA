@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/u1krsh/DSA/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/u1krsh/DSA/tree/master/1240-stone-game-ii) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/u1krsh/DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/u1krsh/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1522-stone-game-iii](https://github.com/u1krsh/DSA/tree/master/1522-stone-game-iii) |
 | [1965-sum-of-digits-in-base-k](https://github.com/u1krsh/DSA/tree/master/1965-sum-of-digits-in-base-k) |
 | [2156-stone-game-ix](https://github.com/u1krsh/DSA/tree/master/2156-stone-game-ix) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/u1krsh/DSA/tree/master/0136-single-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/u1krsh/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1487-cinema-seat-allocation](https://github.com/u1krsh/DSA/tree/master/1487-cinema-seat-allocation) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/u1krsh/DSA/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/u1krsh/DSA/tree/master/3824-number-of-unique-xor-triplets-i) |
