@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/u1krsh/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/u1krsh/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/u1krsh/DSA/tree/master/0283-move-zeroes) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/u1krsh/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/u1krsh/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/u1krsh/DSA/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Math
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/u1krsh/DSA/tree/master/0002-add-two-numbers) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/u1krsh/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
