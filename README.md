@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/u1krsh/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/u1krsh/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/u1krsh/DSA/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/u1krsh/DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/u1krsh/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/u1krsh/DSA/tree/master/0283-move-zeroes) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/u1krsh/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/u1krsh/DSA/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/u1krsh/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/u1krsh/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/u1krsh/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/u1krsh/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/u1krsh/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/u1krsh/DSA/tree/master/0242-valid-anagram) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/u1krsh/DSA/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/u1krsh/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/u1krsh/DSA/tree/master/0141-linked-list-cycle) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/u1krsh/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
@@ -323,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/u1krsh/DSA/tree/master/0204-count-primes) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/u1krsh/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
