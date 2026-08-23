@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/u1krsh/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1522-stone-game-iii](https://github.com/u1krsh/DSA/tree/master/1522-stone-game-iii) |
 | [1965-sum-of-digits-in-base-k](https://github.com/u1krsh/DSA/tree/master/1965-sum-of-digits-in-base-k) |
+| [2039-sum-game](https://github.com/u1krsh/DSA/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/u1krsh/DSA/tree/master/2156-stone-game-ix) |
 | [2383-add-two-integers](https://github.com/u1krsh/DSA/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/u1krsh/DSA/tree/master/2491-smallest-even-multiple) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/u1krsh/DSA/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/u1krsh/DSA/tree/master/0242-valid-anagram) |
+| [2039-sum-game](https://github.com/u1krsh/DSA/tree/master/2039-sum-game) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/u1krsh/DSA/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/u1krsh/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/u1krsh/DSA/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1487-cinema-seat-allocation](https://github.com/u1krsh/DSA/tree/master/1487-cinema-seat-allocation) |
+| [2039-sum-game](https://github.com/u1krsh/DSA/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/u1krsh/DSA/tree/master/2156-stone-game-ix) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/u1krsh/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/u1krsh/DSA/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/u1krsh/DSA/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/u1krsh/DSA/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/u1krsh/DSA/tree/master/1522-stone-game-iii) |
+| [2039-sum-game](https://github.com/u1krsh/DSA/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/u1krsh/DSA/tree/master/2156-stone-game-ix) |
 ## Minimax
 |  |
