@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/u1krsh/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/u1krsh/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/u1krsh/DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/u1krsh/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/u1krsh/DSA/tree/master/0283-move-zeroes) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/u1krsh/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/u1krsh/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/u1krsh/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/u1krsh/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/u1krsh/DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/u1krsh/DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/u1krsh/DSA/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/u1krsh/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/u1krsh/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/u1krsh/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/u1krsh/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/u1krsh/DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/u1krsh/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/u1krsh/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/u1krsh/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/u1krsh/DSA/tree/master/0242-valid-anagram) |
@@ -344,4 +347,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/u1krsh/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/u1krsh/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/u1krsh/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
