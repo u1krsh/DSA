@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/u1krsh/DSA/tree/master/2491-smallest-even-multiple) |
 | [2649-count-total-number-of-colored-cells](https://github.com/u1krsh/DSA/tree/master/2649-count-total-number-of-colored-cells) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/u1krsh/DSA/tree/master/2955-account-balance-after-rounded-purchase) |
+| [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/u1krsh/DSA/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/u1krsh/DSA/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/u1krsh/DSA/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/u1krsh/DSA/tree/master/3820-number-of-unique-xor-triplets-ii) |
