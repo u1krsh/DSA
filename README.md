@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/u1krsh/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/u1krsh/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2156-stone-game-ix](https://github.com/u1krsh/DSA/tree/master/2156-stone-game-ix) |
+| [2181-smallest-index-with-equal-value](https://github.com/u1krsh/DSA/tree/master/2181-smallest-index-with-equal-value) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/u1krsh/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/u1krsh/DSA/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/u1krsh/DSA/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
