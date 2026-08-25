@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/u1krsh/DSA/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/u1krsh/DSA/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/u1krsh/DSA/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/u1krsh/DSA/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/u1krsh/DSA/tree/master/4107-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/u1krsh/DSA/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/u1krsh/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/u1krsh/DSA/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/u1krsh/DSA/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/u1krsh/DSA/tree/master/4107-find-missing-elements) |
 ## String
 |  |
