@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/u1krsh/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/u1krsh/DSA/tree/master/0242-valid-anagram) |
 | [1078-remove-outermost-parentheses](https://github.com/u1krsh/DSA/tree/master/1078-remove-outermost-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/u1krsh/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2039-sum-game](https://github.com/u1krsh/DSA/tree/master/2039-sum-game) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/u1krsh/DSA/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/u1krsh/DSA/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/u1krsh/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/u1krsh/DSA/tree/master/0503-next-greater-element-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/u1krsh/DSA/tree/master/1078-remove-outermost-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/u1krsh/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
