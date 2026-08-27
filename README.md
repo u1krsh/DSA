@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/u1krsh/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [2039-sum-game](https://github.com/u1krsh/DSA/tree/master/2039-sum-game) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/u1krsh/DSA/tree/master/2319-longest-substring-of-one-repeating-character) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/u1krsh/DSA/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/u1krsh/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/u1krsh/DSA/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/u1krsh/DSA/tree/master/3635-smallest-divisible-digit-product-ii) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/u1krsh/DSA/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/u1krsh/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Nim Game
 |  |
