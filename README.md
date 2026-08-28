@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/u1krsh/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/u1krsh/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/u1krsh/DSA/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/u1krsh/DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/u1krsh/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/u1krsh/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/u1krsh/DSA/tree/master/0202-happy-number) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/u1krsh/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/u1krsh/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/u1krsh/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/u1krsh/DSA/tree/master/0069-sqrtx) |
 | [0493-reverse-pairs](https://github.com/u1krsh/DSA/tree/master/0493-reverse-pairs) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/u1krsh/DSA/tree/master/3804-maximize-active-section-with-trade-ii) |
 ## Segment Tree
@@ -449,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/u1krsh/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/u1krsh/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
