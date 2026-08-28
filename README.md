@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/u1krsh/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/u1krsh/DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/u1krsh/DSA/tree/master/0204-count-primes) |
+| [0400-nth-digit](https://github.com/u1krsh/DSA/tree/master/0400-nth-digit) |
 | [0486-predict-the-winner](https://github.com/u1krsh/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/u1krsh/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0909-stone-game](https://github.com/u1krsh/DSA/tree/master/0909-stone-game) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/u1krsh/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/u1krsh/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/u1krsh/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0400-nth-digit](https://github.com/u1krsh/DSA/tree/master/0400-nth-digit) |
 | [0493-reverse-pairs](https://github.com/u1krsh/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/u1krsh/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/u1krsh/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
