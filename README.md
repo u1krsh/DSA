@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/u1krsh/DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/u1krsh/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/u1krsh/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/u1krsh/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0909-stone-game](https://github.com/u1krsh/DSA/tree/master/0909-stone-game) |
 | [0978-valid-mountain-array](https://github.com/u1krsh/DSA/tree/master/0978-valid-mountain-array) |
 | [1240-stone-game-ii](https://github.com/u1krsh/DSA/tree/master/1240-stone-game-ii) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/u1krsh/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/u1krsh/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0493-reverse-pairs](https://github.com/u1krsh/DSA/tree/master/0493-reverse-pairs) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/u1krsh/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/u1krsh/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/u1krsh/DSA/tree/master/3804-maximize-active-section-with-trade-ii) |
 ## Segment Tree
@@ -461,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/u1krsh/DSA/tree/master/0069-sqrtx) |
+## Ternary Search
+|  |
+| ------- |
+| [0882-peak-index-in-a-mountain-array](https://github.com/u1krsh/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
