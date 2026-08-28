@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/u1krsh/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/u1krsh/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/u1krsh/DSA/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/u1krsh/DSA/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Math
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3804-maximize-active-section-with-trade-ii](https://github.com/u1krsh/DSA/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/u1krsh/DSA/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/u1krsh/DSA/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
+| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/u1krsh/DSA/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3626-smallest-divisible-digit-product-i](https://github.com/u1krsh/DSA/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/u1krsh/DSA/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/u1krsh/DSA/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
+| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/u1krsh/DSA/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Linked List
 |  |
 | ------- |
