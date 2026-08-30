@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2002-stone-game-viii](https://github.com/u1krsh/DSA/tree/master/2002-stone-game-viii) |
 | [2156-stone-game-ix](https://github.com/u1krsh/DSA/tree/master/2156-stone-game-ix) |
 | [2181-smallest-index-with-equal-value](https://github.com/u1krsh/DSA/tree/master/2181-smallest-index-with-equal-value) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/u1krsh/DSA/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/u1krsh/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/u1krsh/DSA/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/u1krsh/DSA/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1487-cinema-seat-allocation](https://github.com/u1krsh/DSA/tree/master/1487-cinema-seat-allocation) |
 | [2039-sum-game](https://github.com/u1krsh/DSA/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/u1krsh/DSA/tree/master/2156-stone-game-ix) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/u1krsh/DSA/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/u1krsh/DSA/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/u1krsh/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/u1krsh/DSA/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
