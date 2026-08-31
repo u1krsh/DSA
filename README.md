@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/u1krsh/DSA/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/u1krsh/DSA/tree/master/2491-smallest-even-multiple) |
 | [2649-count-total-number-of-colored-cells](https://github.com/u1krsh/DSA/tree/master/2649-count-total-number-of-colored-cells) |
+| [2663-distribute-money-to-maximum-children](https://github.com/u1krsh/DSA/tree/master/2663-distribute-money-to-maximum-children) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/u1krsh/DSA/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/u1krsh/DSA/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/u1krsh/DSA/tree/master/3626-smallest-divisible-digit-product-i) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2039-sum-game](https://github.com/u1krsh/DSA/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/u1krsh/DSA/tree/master/2156-stone-game-ix) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/u1krsh/DSA/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2663-distribute-money-to-maximum-children](https://github.com/u1krsh/DSA/tree/master/2663-distribute-money-to-maximum-children) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/u1krsh/DSA/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/u1krsh/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/u1krsh/DSA/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
