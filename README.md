@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/u1krsh/DSA/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1522-stone-game-iii](https://github.com/u1krsh/DSA/tree/master/1522-stone-game-iii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/u1krsh/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/u1krsh/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [1677-matrix-diagonal-sum](https://github.com/u1krsh/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/u1krsh/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2002-stone-game-viii](https://github.com/u1krsh/DSA/tree/master/2002-stone-game-viii) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/u1krsh/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/u1krsh/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/u1krsh/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1675-magnetic-force-between-two-balls](https://github.com/u1krsh/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/u1krsh/DSA/tree/master/3804-maximize-active-section-with-trade-ii) |
 ## Segment Tree
 |  |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/u1krsh/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/u1krsh/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/u1krsh/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/u1krsh/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/u1krsh/DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/u1krsh/DSA/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/u1krsh/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
