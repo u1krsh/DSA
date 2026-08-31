@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/u1krsh/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/u1krsh/DSA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/u1krsh/DSA/tree/master/0283-move-zeroes) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/u1krsh/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/u1krsh/DSA/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/u1krsh/DSA/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/u1krsh/DSA/tree/master/0493-reverse-pairs) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/u1krsh/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/u1krsh/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/u1krsh/DSA/tree/master/0242-valid-anagram) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/u1krsh/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/u1krsh/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/u1krsh/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/u1krsh/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/u1krsh/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/u1krsh/DSA/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/u1krsh/DSA/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/u1krsh/DSA/tree/master/1018-largest-perimeter-triangle) |
