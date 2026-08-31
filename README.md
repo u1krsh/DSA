@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/u1krsh/DSA/tree/master/0890-lemonade-change) |
 | [0909-stone-game](https://github.com/u1krsh/DSA/tree/master/0909-stone-game) |
 | [0978-valid-mountain-array](https://github.com/u1krsh/DSA/tree/master/0978-valid-mountain-array) |
+| [0985-bag-of-tokens](https://github.com/u1krsh/DSA/tree/master/0985-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/u1krsh/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1240-stone-game-ii](https://github.com/u1krsh/DSA/tree/master/1240-stone-game-ii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/u1krsh/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/u1krsh/DSA/tree/master/0283-move-zeroes) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/u1krsh/DSA/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/u1krsh/DSA/tree/master/0908-middle-of-the-linked-list) |
+| [0985-bag-of-tokens](https://github.com/u1krsh/DSA/tree/master/0985-bag-of-tokens) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/u1krsh/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/u1krsh/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/u1krsh/DSA/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/u1krsh/DSA/tree/master/0242-valid-anagram) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/u1krsh/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/u1krsh/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0985-bag-of-tokens](https://github.com/u1krsh/DSA/tree/master/0985-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/u1krsh/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/u1krsh/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/u1krsh/DSA/tree/master/1675-magnetic-force-between-two-balls) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/u1krsh/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/u1krsh/DSA/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/u1krsh/DSA/tree/master/0890-lemonade-change) |
+| [0985-bag-of-tokens](https://github.com/u1krsh/DSA/tree/master/0985-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/u1krsh/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1487-cinema-seat-allocation](https://github.com/u1krsh/DSA/tree/master/1487-cinema-seat-allocation) |
 | [2039-sum-game](https://github.com/u1krsh/DSA/tree/master/2039-sum-game) |
