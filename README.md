@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/u1krsh/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/u1krsh/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/u1krsh/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/u1krsh/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/u1krsh/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/u1krsh/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/u1krsh/DSA/tree/master/0202-happy-number) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/u1krsh/DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/u1krsh/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/u1krsh/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/u1krsh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/u1krsh/DSA/tree/master/0486-predict-the-winner) |
@@ -592,4 +594,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/u1krsh/DSA/tree/master/1018-largest-perimeter-triangle) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/u1krsh/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
