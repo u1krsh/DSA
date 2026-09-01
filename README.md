@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/u1krsh/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/u1krsh/DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/u1krsh/DSA/tree/master/0204-count-primes) |
+| [0343-integer-break](https://github.com/u1krsh/DSA/tree/master/0343-integer-break) |
 | [0400-nth-digit](https://github.com/u1krsh/DSA/tree/master/0400-nth-digit) |
 | [0486-predict-the-winner](https://github.com/u1krsh/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/u1krsh/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/u1krsh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/u1krsh/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/u1krsh/DSA/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/u1krsh/DSA/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/u1krsh/DSA/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/u1krsh/DSA/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/u1krsh/DSA/tree/master/0909-stone-game) |
