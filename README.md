@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/u1krsh/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/u1krsh/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/u1krsh/DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/u1krsh/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/u1krsh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/u1krsh/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/u1krsh/DSA/tree/master/0134-gas-station) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/u1krsh/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/u1krsh/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/u1krsh/DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/u1krsh/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/u1krsh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/u1krsh/DSA/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/u1krsh/DSA/tree/master/0392-is-subsequence) |
