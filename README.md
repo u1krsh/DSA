@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/u1krsh/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/u1krsh/DSA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/u1krsh/DSA/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/u1krsh/DSA/tree/master/0322-coin-change) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/u1krsh/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/u1krsh/DSA/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/u1krsh/DSA/tree/master/0486-predict-the-winner) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/u1krsh/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/u1krsh/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/u1krsh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/u1krsh/DSA/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/u1krsh/DSA/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/u1krsh/DSA/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/u1krsh/DSA/tree/master/1240-stone-game-ii) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/u1krsh/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/u1krsh/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/u1krsh/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0322-coin-change](https://github.com/u1krsh/DSA/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/u1krsh/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/u1krsh/DSA/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Tree
@@ -598,4 +601,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/u1krsh/DSA/tree/master/0070-climbing-stairs) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/u1krsh/DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/u1krsh/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
