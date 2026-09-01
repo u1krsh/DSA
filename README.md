@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/u1krsh/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/u1krsh/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/u1krsh/DSA/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/u1krsh/DSA/tree/master/0392-is-subsequence) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/u1krsh/DSA/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/u1krsh/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [0985-bag-of-tokens](https://github.com/u1krsh/DSA/tree/master/0985-bag-of-tokens) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/u1krsh/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/u1krsh/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/u1krsh/DSA/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/u1krsh/DSA/tree/master/0392-is-subsequence) |
 | [1078-remove-outermost-parentheses](https://github.com/u1krsh/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/u1krsh/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/u1krsh/DSA/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/u1krsh/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/u1krsh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/u1krsh/DSA/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/u1krsh/DSA/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/u1krsh/DSA/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/u1krsh/DSA/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/u1krsh/DSA/tree/master/1240-stone-game-ii) |
