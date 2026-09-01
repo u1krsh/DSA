@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/u1krsh/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/u1krsh/DSA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/u1krsh/DSA/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/u1krsh/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/u1krsh/DSA/tree/master/0322-coin-change) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/u1krsh/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/u1krsh/DSA/tree/master/0485-max-consecutive-ones) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/u1krsh/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/u1krsh/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/u1krsh/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0300-longest-increasing-subsequence](https://github.com/u1krsh/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0400-nth-digit](https://github.com/u1krsh/DSA/tree/master/0400-nth-digit) |
 | [0493-reverse-pairs](https://github.com/u1krsh/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/u1krsh/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/u1krsh/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/u1krsh/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/u1krsh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/u1krsh/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/u1krsh/DSA/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/u1krsh/DSA/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/u1krsh/DSA/tree/master/0486-predict-the-winner) |
@@ -619,4 +622,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/u1krsh/DSA/tree/master/0322-coin-change) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/u1krsh/DSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
