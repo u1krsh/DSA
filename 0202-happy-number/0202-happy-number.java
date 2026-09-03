@@ -1,40 +1,26 @@
 class Solution {
-    // private Node head;
-    // private class Node {
-    //     private int val;
-    //     private Node next;
 
-    //     public Node(int val) {
-    //         this.val = val;
-    //     }
-
-    //     public Node(Node next, int val) {
-    //         this.next = next;
-    //         this.val = val;
-    //     }
-    // }
-
-    private int findSquare(int n){
+    private int square(int n){
         int ans = 0;
         while(n>0){
             int remo = n %10;
-            ans += remo * remo;
+            ans += remo*remo;
             n = n/10;
         }
         return ans;
+
     }
 
-
     public boolean isHappy(int n) {
-        int slow = n;
-        int fast = n;
+        int hare = n;
+        int turtle = n;
 
         do{
-            slow = findSquare(slow);
-            fast = findSquare(findSquare(fast));
-        }while(slow != fast);
+            turtle = square(turtle);
+            hare = square(square(hare));
+        }while(hare != turtle);
 
-        if(slow==1) return true;
+        if(hare == 1) return true;
         else return false;
     }
 }
