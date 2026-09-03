@@ -10,13 +10,16 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
+        if(head == null) return head;
         ListNode hare = head;
         ListNode turtle = head;
+
         while(hare != null && hare.next != null){
-            turtle = turtle.next;
             hare = hare.next.next;
+            turtle = turtle.next;
         }
 
         return turtle;
+
     }
 }
