@@ -10,17 +10,17 @@
  */
 class Solution {
     public ListNode removeElements(ListNode head, int val) {
+        ListNode dummy = new ListNode(0,head);
+        ListNode curr = dummy;
 
-        ListNode dumm = new ListNode(0,head);
-        ListNode curr = dumm;
         while(curr.next != null){
             if(curr.next.val == val){
                 curr.next = curr.next.next;
             }
             else{
-            curr = curr.next;
+                curr = curr.next;
             }
         }
-        return dumm.next;
+        return dummy.next;
     }
 }
