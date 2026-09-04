@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4107-find-missing-elements](https://github.com/u1krsh/DSA/tree/master/4107-find-missing-elements) |
 | [4256-construct-uniform-parity-array-i](https://github.com/u1krsh/DSA/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/u1krsh/DSA/tree/master/4258-construct-uniform-parity-array-ii) |
+| [4284-smallest-stable-index-i](https://github.com/u1krsh/DSA/tree/master/4284-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/u1krsh/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1240-stone-game-ii](https://github.com/u1krsh/DSA/tree/master/1240-stone-game-ii) |
 | [2002-stone-game-viii](https://github.com/u1krsh/DSA/tree/master/2002-stone-game-viii) |
+| [4284-smallest-stable-index-i](https://github.com/u1krsh/DSA/tree/master/4284-smallest-stable-index-i) |
 ## Greedy
 |  |
 | ------- |
