@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/u1krsh/DSA/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/u1krsh/DSA/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/u1krsh/DSA/tree/master/0392-is-subsequence) |
+| [0977-distinct-subsequences-ii](https://github.com/u1krsh/DSA/tree/master/0977-distinct-subsequences-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/u1krsh/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/u1krsh/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/u1krsh/DSA/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/u1krsh/DSA/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/u1krsh/DSA/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/u1krsh/DSA/tree/master/0909-stone-game) |
+| [0977-distinct-subsequences-ii](https://github.com/u1krsh/DSA/tree/master/0977-distinct-subsequences-ii) |
 | [1240-stone-game-ii](https://github.com/u1krsh/DSA/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/u1krsh/DSA/tree/master/1522-stone-game-iii) |
 | [2002-stone-game-viii](https://github.com/u1krsh/DSA/tree/master/2002-stone-game-viii) |
