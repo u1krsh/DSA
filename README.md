@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/u1krsh/DSA/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/u1krsh/DSA/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/u1krsh/DSA/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3799-unique-3-digit-even-numbers](https://github.com/u1krsh/DSA/tree/master/3799-unique-3-digit-even-numbers) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/u1krsh/DSA/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/u1krsh/DSA/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/u1krsh/DSA/tree/master/3824-number-of-unique-xor-triplets-i) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/u1krsh/DSA/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/u1krsh/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/u1krsh/DSA/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3799-unique-3-digit-even-numbers](https://github.com/u1krsh/DSA/tree/master/3799-unique-3-digit-even-numbers) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/u1krsh/DSA/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/u1krsh/DSA/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/u1krsh/DSA/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/u1krsh/DSA/tree/master/0204-count-primes) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/u1krsh/DSA/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3799-unique-3-digit-even-numbers](https://github.com/u1krsh/DSA/tree/master/3799-unique-3-digit-even-numbers) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/u1krsh/DSA/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/u1krsh/DSA/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/u1krsh/DSA/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/u1krsh/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/u1krsh/DSA/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/u1krsh/DSA/tree/master/0486-predict-the-winner) |
+| [3799-unique-3-digit-even-numbers](https://github.com/u1krsh/DSA/tree/master/3799-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
