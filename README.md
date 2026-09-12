@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/u1krsh/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/u1krsh/DSA/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/u1krsh/DSA/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/u1krsh/DSA/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/u1krsh/DSA/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3799-unique-3-digit-even-numbers](https://github.com/u1krsh/DSA/tree/master/3799-unique-3-digit-even-numbers) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/u1krsh/DSA/tree/master/3804-maximize-active-section-with-trade-ii) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/u1krsh/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/u1krsh/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/u1krsh/DSA/tree/master/1675-magnetic-force-between-two-balls) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/u1krsh/DSA/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/u1krsh/DSA/tree/master/3804-maximize-active-section-with-trade-ii) |
 ## Segment Tree
 |  |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/u1krsh/DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/u1krsh/DSA/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/u1krsh/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/u1krsh/DSA/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/u1krsh/DSA/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [4107-find-missing-elements](https://github.com/u1krsh/DSA/tree/master/4107-find-missing-elements) |
 ## Matrix
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/u1krsh/DSA/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/u1krsh/DSA/tree/master/1522-stone-game-iii) |
 | [2002-stone-game-viii](https://github.com/u1krsh/DSA/tree/master/2002-stone-game-viii) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/u1krsh/DSA/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/u1krsh/DSA/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Heap (Priority Queue)
 |  |
