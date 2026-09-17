@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1487-cinema-seat-allocation](https://github.com/u1krsh/DSA/tree/master/1487-cinema-seat-allocation) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/u1krsh/DSA/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1522-stone-game-iii](https://github.com/u1krsh/DSA/tree/master/1522-stone-game-iii) |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/u1krsh/DSA/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/u1krsh/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/u1krsh/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [1677-matrix-diagonal-sum](https://github.com/u1krsh/DSA/tree/master/1677-matrix-diagonal-sum) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/u1krsh/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/u1krsh/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1487-cinema-seat-allocation](https://github.com/u1krsh/DSA/tree/master/1487-cinema-seat-allocation) |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/u1krsh/DSA/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/u1krsh/DSA/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/u1krsh/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/u1krsh/DSA/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/u1krsh/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/u1krsh/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/u1krsh/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/u1krsh/DSA/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1675-magnetic-force-between-two-balls](https://github.com/u1krsh/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/u1krsh/DSA/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/u1krsh/DSA/tree/master/3804-maximize-active-section-with-trade-ii) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-distinct-subsequences-ii](https://github.com/u1krsh/DSA/tree/master/0977-distinct-subsequences-ii) |
 | [1240-stone-game-ii](https://github.com/u1krsh/DSA/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/u1krsh/DSA/tree/master/1522-stone-game-iii) |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/u1krsh/DSA/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2002-stone-game-viii](https://github.com/u1krsh/DSA/tree/master/2002-stone-game-viii) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/u1krsh/DSA/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/u1krsh/DSA/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
@@ -490,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/u1krsh/DSA/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/u1krsh/DSA/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/u1krsh/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Nim Game
