@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/u1krsh/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1487-cinema-seat-allocation](https://github.com/u1krsh/DSA/tree/master/1487-cinema-seat-allocation) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/u1krsh/DSA/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/u1krsh/DSA/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/u1krsh/DSA/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/u1krsh/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/u1krsh/DSA/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/u1krsh/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/u1krsh/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/u1krsh/DSA/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/u1krsh/DSA/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2039-sum-game](https://github.com/u1krsh/DSA/tree/master/2039-sum-game) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/u1krsh/DSA/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/u1krsh/DSA/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/u1krsh/DSA/tree/master/0985-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/u1krsh/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/u1krsh/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/u1krsh/DSA/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1675-magnetic-force-between-two-balls](https://github.com/u1krsh/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/u1krsh/DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/u1krsh/DSA/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/u1krsh/DSA/tree/master/0985-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/u1krsh/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1487-cinema-seat-allocation](https://github.com/u1krsh/DSA/tree/master/1487-cinema-seat-allocation) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/u1krsh/DSA/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2039-sum-game](https://github.com/u1krsh/DSA/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/u1krsh/DSA/tree/master/2156-stone-game-ix) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/u1krsh/DSA/tree/master/2212-removing-minimum-and-maximum-from-array) |
