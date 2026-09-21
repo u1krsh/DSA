@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3804-maximize-active-section-with-trade-ii](https://github.com/u1krsh/DSA/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/u1krsh/DSA/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/u1krsh/DSA/tree/master/3824-number-of-unique-xor-triplets-i) |
+| [3831-find-x-value-of-array-i](https://github.com/u1krsh/DSA/tree/master/3831-find-x-value-of-array-i) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/u1krsh/DSA/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/u1krsh/DSA/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/u1krsh/DSA/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-smallest-divisible-digit-product-ii](https://github.com/u1krsh/DSA/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/u1krsh/DSA/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/u1krsh/DSA/tree/master/3824-number-of-unique-xor-triplets-i) |
+| [3831-find-x-value-of-array-i](https://github.com/u1krsh/DSA/tree/master/3831-find-x-value-of-array-i) |
 | [4245-count-commas-in-range](https://github.com/u1krsh/DSA/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/u1krsh/DSA/tree/master/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/u1krsh/DSA/tree/master/4256-construct-uniform-parity-array-i) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2002-stone-game-viii](https://github.com/u1krsh/DSA/tree/master/2002-stone-game-viii) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/u1krsh/DSA/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/u1krsh/DSA/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+| [3831-find-x-value-of-array-i](https://github.com/u1krsh/DSA/tree/master/3831-find-x-value-of-array-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
