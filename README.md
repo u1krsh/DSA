@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/u1krsh/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/u1krsh/DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/u1krsh/DSA/tree/master/0204-count-primes) |
+| [0263-ugly-number](https://github.com/u1krsh/DSA/tree/master/0263-ugly-number) |
 | [0343-integer-break](https://github.com/u1krsh/DSA/tree/master/0343-integer-break) |
 | [0400-nth-digit](https://github.com/u1krsh/DSA/tree/master/0400-nth-digit) |
 | [0486-predict-the-winner](https://github.com/u1krsh/DSA/tree/master/0486-predict-the-winner) |
