@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/u1krsh/DSA/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/u1krsh/DSA/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3831-find-x-value-of-array-i](https://github.com/u1krsh/DSA/tree/master/3831-find-x-value-of-array-i) |
+| [3840-find-x-value-of-array-ii](https://github.com/u1krsh/DSA/tree/master/3840-find-x-value-of-array-ii) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/u1krsh/DSA/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/u1krsh/DSA/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/u1krsh/DSA/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/u1krsh/DSA/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/u1krsh/DSA/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3831-find-x-value-of-array-i](https://github.com/u1krsh/DSA/tree/master/3831-find-x-value-of-array-i) |
+| [3840-find-x-value-of-array-ii](https://github.com/u1krsh/DSA/tree/master/3840-find-x-value-of-array-ii) |
 | [4245-count-commas-in-range](https://github.com/u1krsh/DSA/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/u1krsh/DSA/tree/master/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/u1krsh/DSA/tree/master/4256-construct-uniform-parity-array-i) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/u1krsh/DSA/tree/master/0493-reverse-pairs) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/u1krsh/DSA/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/u1krsh/DSA/tree/master/3804-maximize-active-section-with-trade-ii) |
+| [3840-find-x-value-of-array-ii](https://github.com/u1krsh/DSA/tree/master/3840-find-x-value-of-array-ii) |
 ## Enumeration
 |  |
 | ------- |
