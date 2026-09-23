@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/u1krsh/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/u1krsh/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [1677-matrix-diagonal-sum](https://github.com/u1krsh/DSA/tree/master/1677-matrix-diagonal-sum) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/u1krsh/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/u1krsh/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2002-stone-game-viii](https://github.com/u1krsh/DSA/tree/master/2002-stone-game-viii) |
 | [2156-stone-game-ix](https://github.com/u1krsh/DSA/tree/master/2156-stone-game-ix) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1487-cinema-seat-allocation](https://github.com/u1krsh/DSA/tree/master/1487-cinema-seat-allocation) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/u1krsh/DSA/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/u1krsh/DSA/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/u1krsh/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/u1krsh/DSA/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/u1krsh/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/u1krsh/DSA/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/u1krsh/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/u1krsh/DSA/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1675-magnetic-force-between-two-balls](https://github.com/u1krsh/DSA/tree/master/1675-magnetic-force-between-two-balls) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/u1krsh/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/u1krsh/DSA/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/u1krsh/DSA/tree/master/3804-maximize-active-section-with-trade-ii) |
 ## Segment Tree
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/u1krsh/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1240-stone-game-ii](https://github.com/u1krsh/DSA/tree/master/1240-stone-game-ii) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/u1krsh/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2002-stone-game-viii](https://github.com/u1krsh/DSA/tree/master/2002-stone-game-viii) |
 | [4284-smallest-stable-index-i](https://github.com/u1krsh/DSA/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/u1krsh/DSA/tree/master/4285-smallest-stable-index-ii) |
@@ -508,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/u1krsh/DSA/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/u1krsh/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/u1krsh/DSA/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/u1krsh/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Nim Game
