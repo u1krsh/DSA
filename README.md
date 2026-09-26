@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/u1krsh/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/u1krsh/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/u1krsh/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/u1krsh/DSA/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2002-stone-game-viii](https://github.com/u1krsh/DSA/tree/master/2002-stone-game-viii) |
 | [2156-stone-game-ix](https://github.com/u1krsh/DSA/tree/master/2156-stone-game-ix) |
 | [2181-smallest-index-with-equal-value](https://github.com/u1krsh/DSA/tree/master/2181-smallest-index-with-equal-value) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/u1krsh/DSA/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/u1krsh/DSA/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/u1krsh/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/u1krsh/DSA/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/u1krsh/DSA/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/u1krsh/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/u1krsh/DSA/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1188-brace-expansion-ii](https://github.com/u1krsh/DSA/tree/master/1188-brace-expansion-ii) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/u1krsh/DSA/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/u1krsh/DSA/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/u1krsh/DSA/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2039-sum-game](https://github.com/u1krsh/DSA/tree/master/2039-sum-game) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/u1krsh/DSA/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/u1krsh/DSA/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -723,7 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/u1krsh/DSA/tree/master/0037-sudoku-solver) |
-## BoyerâMoore Majority Vote Algorithm
+## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/u1krsh/DSA/tree/master/0169-majority-element) |
