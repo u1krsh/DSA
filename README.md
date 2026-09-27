@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/u1krsh/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/u1krsh/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1188-brace-expansion-ii](https://github.com/u1krsh/DSA/tree/master/1188-brace-expansion-ii) |
+| [1250-longest-common-subsequence](https://github.com/u1krsh/DSA/tree/master/1250-longest-common-subsequence) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/u1krsh/DSA/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/u1krsh/DSA/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/u1krsh/DSA/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/u1krsh/DSA/tree/master/0909-stone-game) |
 | [0977-distinct-subsequences-ii](https://github.com/u1krsh/DSA/tree/master/0977-distinct-subsequences-ii) |
 | [1240-stone-game-ii](https://github.com/u1krsh/DSA/tree/master/1240-stone-game-ii) |
+| [1250-longest-common-subsequence](https://github.com/u1krsh/DSA/tree/master/1250-longest-common-subsequence) |
 | [1522-stone-game-iii](https://github.com/u1krsh/DSA/tree/master/1522-stone-game-iii) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/u1krsh/DSA/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2002-stone-game-viii](https://github.com/u1krsh/DSA/tree/master/2002-stone-game-viii) |
@@ -726,8 +728,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/u1krsh/DSA/tree/master/0037-sudoku-solver) |
-## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/u1krsh/DSA/tree/master/0169-majority-element) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/u1krsh/DSA/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
