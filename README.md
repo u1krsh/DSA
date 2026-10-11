@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [2418-minimum-sum-of-squared-difference](https://github.com/u1krsh/DSA/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/u1krsh/DSA/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2892-check-if-array-is-good](https://github.com/u1krsh/DSA/tree/master/2892-check-if-array-is-good) |
 ## Hash Table
@@ -13,6 +14,7 @@
 ## Sorting
 |  |
 | ------- |
+| [2418-minimum-sum-of-squared-difference](https://github.com/u1krsh/DSA/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2892-check-if-array-is-good](https://github.com/u1krsh/DSA/tree/master/2892-check-if-array-is-good) |
 ## Simulation
 |  |
@@ -30,8 +32,17 @@
 |  |
 | ------- |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/u1krsh/DSA/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/u1krsh/DSA/tree/master/2418-minimum-sum-of-squared-difference) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/u1krsh/DSA/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+## Binary Search
+|  |
+| ------- |
+| [2418-minimum-sum-of-squared-difference](https://github.com/u1krsh/DSA/tree/master/2418-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2418-minimum-sum-of-squared-difference](https://github.com/u1krsh/DSA/tree/master/2418-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
