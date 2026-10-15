@@ -28,6 +28,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/u1krsh/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2428-equal-row-and-column-pairs](https://github.com/u1krsh/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/u1krsh/DSA/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 ## String
@@ -36,11 +37,13 @@
 | [0224-basic-calculator](https://github.com/u1krsh/DSA/tree/master/0224-basic-calculator) |
 | [0763-special-binary-string](https://github.com/u1krsh/DSA/tree/master/0763-special-binary-string) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/u1krsh/DSA/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/u1krsh/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/u1krsh/DSA/tree/master/0224-basic-calculator) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/u1krsh/DSA/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/u1krsh/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Greedy
 |  |
 | ------- |
