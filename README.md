@@ -32,10 +32,12 @@
 ## String
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/u1krsh/DSA/tree/master/0224-basic-calculator) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/u1krsh/DSA/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Stack
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/u1krsh/DSA/tree/master/0224-basic-calculator) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/u1krsh/DSA/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Greedy
 |  |
@@ -64,6 +66,7 @@
 ## Math
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/u1krsh/DSA/tree/master/0224-basic-calculator) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/u1krsh/DSA/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Union-Find
 |  |
@@ -73,4 +76,8 @@
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/u1krsh/DSA/tree/master/2428-equal-row-and-column-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/u1krsh/DSA/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
