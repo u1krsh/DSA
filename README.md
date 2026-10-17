@@ -11,6 +11,7 @@
 | [2892-check-if-array-is-good](https://github.com/u1krsh/DSA/tree/master/2892-check-if-array-is-good) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/u1krsh/DSA/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/u1krsh/DSA/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/u1krsh/DSA/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/u1krsh/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
@@ -20,12 +21,14 @@
 | [2892-check-if-array-is-good](https://github.com/u1krsh/DSA/tree/master/2892-check-if-array-is-good) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/u1krsh/DSA/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/u1krsh/DSA/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/u1krsh/DSA/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Sorting
 |  |
 | ------- |
 | [0763-special-binary-string](https://github.com/u1krsh/DSA/tree/master/0763-special-binary-string) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/u1krsh/DSA/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2892-check-if-array-is-good](https://github.com/u1krsh/DSA/tree/master/2892-check-if-array-is-good) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/u1krsh/DSA/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/u1krsh/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Simulation
 |  |
