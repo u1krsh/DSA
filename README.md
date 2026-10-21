@@ -44,6 +44,7 @@
 | [0763-special-binary-string](https://github.com/u1krsh/DSA/tree/master/0763-special-binary-string) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/u1krsh/DSA/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/u1krsh/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [4220-minimum-operations-to-sort-a-string](https://github.com/u1krsh/DSA/tree/master/4220-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
 | ------- |
