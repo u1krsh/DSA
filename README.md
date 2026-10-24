@@ -46,6 +46,7 @@
 | [0763-special-binary-string](https://github.com/u1krsh/DSA/tree/master/0763-special-binary-string) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/u1krsh/DSA/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/u1krsh/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2496-count-days-spent-together](https://github.com/u1krsh/DSA/tree/master/2496-count-days-spent-together) |
 | [4220-minimum-operations-to-sort-a-string](https://github.com/u1krsh/DSA/tree/master/4220-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
@@ -83,6 +84,7 @@
 | ------- |
 | [0224-basic-calculator](https://github.com/u1krsh/DSA/tree/master/0224-basic-calculator) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/u1krsh/DSA/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2496-count-days-spent-together](https://github.com/u1krsh/DSA/tree/master/2496-count-days-spent-together) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/u1krsh/DSA/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Union-Find
 |  |
