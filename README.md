@@ -17,6 +17,7 @@
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/u1krsh/DSA/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/u1krsh/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/u1krsh/DSA/tree/master/4184-minimum-operations-to-sort-a-permutation) |
+| [4205-minimum-xor-path-in-a-grid](https://github.com/u1krsh/DSA/tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | ------- |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/u1krsh/DSA/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/u1krsh/DSA/tree/master/3950-maximum-k-to-sort-a-permutation) |
+| [4205-minimum-xor-path-in-a-grid](https://github.com/u1krsh/DSA/tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/u1krsh/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/u1krsh/DSA/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
+| [4205-minimum-xor-path-in-a-grid](https://github.com/u1krsh/DSA/tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -119,6 +122,7 @@
 |  |
 | ------- |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/u1krsh/DSA/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [4205-minimum-xor-path-in-a-grid](https://github.com/u1krsh/DSA/tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Tree
 |  |
 | ------- |
