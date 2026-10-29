@@ -18,6 +18,7 @@
 | [4078-maximum-alternating-sum-of-squares](https://github.com/u1krsh/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/u1krsh/DSA/tree/master/4184-minimum-operations-to-sort-a-permutation) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/u1krsh/DSA/tree/master/4205-minimum-xor-path-in-a-grid) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/u1krsh/DSA/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/u1krsh/DSA/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/u1krsh/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2496-count-days-spent-together](https://github.com/u1krsh/DSA/tree/master/2496-count-days-spent-together) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/u1krsh/DSA/tree/master/4209-palindromic-path-queries-in-a-tree) |
 | [4220-minimum-operations-to-sort-a-string](https://github.com/u1krsh/DSA/tree/master/4220-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
@@ -82,6 +84,7 @@
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/u1krsh/DSA/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/u1krsh/DSA/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/u1krsh/DSA/tree/master/4205-minimum-xor-path-in-a-grid) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/u1krsh/DSA/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Math
 |  |
 | ------- |
@@ -110,14 +113,17 @@
 | ------- |
 | [0763-special-binary-string](https://github.com/u1krsh/DSA/tree/master/0763-special-binary-string) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/u1krsh/DSA/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/u1krsh/DSA/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/u1krsh/DSA/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/u1krsh/DSA/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/u1krsh/DSA/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/u1krsh/DSA/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -127,6 +133,7 @@
 |  |
 | ------- |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/u1krsh/DSA/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/u1krsh/DSA/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -151,6 +158,7 @@
 |  |
 | ------- |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/u1krsh/DSA/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/u1krsh/DSA/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
