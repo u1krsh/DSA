@@ -7,6 +7,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/u1krsh/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/u1krsh/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/u1krsh/DSA/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2012-process-tasks-using-servers](https://github.com/u1krsh/DSA/tree/master/2012-process-tasks-using-servers) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/u1krsh/DSA/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2428-equal-row-and-column-pairs](https://github.com/u1krsh/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/u1krsh/DSA/tree/master/2684-determine-the-winner-of-a-bowling-game) |
@@ -84,6 +85,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2012-process-tasks-using-servers](https://github.com/u1krsh/DSA/tree/master/2012-process-tasks-using-servers) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/u1krsh/DSA/tree/master/2418-minimum-sum-of-squared-difference) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/u1krsh/DSA/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/u1krsh/DSA/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
