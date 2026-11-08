@@ -6,6 +6,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/u1krsh/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/u1krsh/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1396-count-servers-that-communicate](https://github.com/u1krsh/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/u1krsh/DSA/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2012-process-tasks-using-servers](https://github.com/u1krsh/DSA/tree/master/2012-process-tasks-using-servers) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/u1krsh/DSA/tree/master/2418-minimum-sum-of-squared-difference) |
@@ -110,11 +111,13 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/u1krsh/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [1396-count-servers-that-communicate](https://github.com/u1krsh/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/u1krsh/DSA/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/u1krsh/DSA/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/u1krsh/DSA/tree/master/1396-count-servers-that-communicate) |
 | [2428-equal-row-and-column-pairs](https://github.com/u1krsh/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/u1krsh/DSA/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3938-twisted-mirror-path-count](https://github.com/u1krsh/DSA/tree/master/3938-twisted-mirror-path-count) |
@@ -174,11 +177,13 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/u1krsh/DSA/tree/master/1396-count-servers-that-communicate) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/u1krsh/DSA/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [4209-palindromic-path-queries-in-a-tree](https://github.com/u1krsh/DSA/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/u1krsh/DSA/tree/master/1396-count-servers-that-communicate) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/u1krsh/DSA/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
@@ -192,4 +197,8 @@
 |  |
 | ------- |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/u1krsh/DSA/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Counting
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/u1krsh/DSA/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
