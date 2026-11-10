@@ -20,6 +20,7 @@
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/u1krsh/DSA/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3938-twisted-mirror-path-count](https://github.com/u1krsh/DSA/tree/master/3938-twisted-mirror-path-count) |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/u1krsh/DSA/tree/master/3950-maximum-k-to-sort-a-permutation) |
+| [4041-climbing-stairs-ii](https://github.com/u1krsh/DSA/tree/master/4041-climbing-stairs-ii) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/u1krsh/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/u1krsh/DSA/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/u1krsh/DSA/tree/master/4184-minimum-operations-to-sort-a-permutation) |
@@ -148,6 +149,7 @@
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/u1krsh/DSA/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/u1krsh/DSA/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3938-twisted-mirror-path-count](https://github.com/u1krsh/DSA/tree/master/3938-twisted-mirror-path-count) |
+| [4041-climbing-stairs-ii](https://github.com/u1krsh/DSA/tree/master/4041-climbing-stairs-ii) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/u1krsh/DSA/tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Tree
 |  |
