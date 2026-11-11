@@ -76,6 +76,7 @@
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/u1krsh/DSA/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/u1krsh/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/u1krsh/DSA/tree/master/4084-maximize-sum-of-squares-of-digits) |
+| [4147-minimum-cost-to-acquire-required-items](https://github.com/u1krsh/DSA/tree/master/4147-minimum-cost-to-acquire-required-items) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/u1krsh/DSA/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/u1krsh/DSA/tree/master/4084-maximize-sum-of-squares-of-digits) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/u1krsh/DSA/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
+| [4147-minimum-cost-to-acquire-required-items](https://github.com/u1krsh/DSA/tree/master/4147-minimum-cost-to-acquire-required-items) |
 ## Union-Find
 |  |
 | ------- |
