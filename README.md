@@ -15,6 +15,7 @@
 | [2892-check-if-array-is-good](https://github.com/u1krsh/DSA/tree/master/2892-check-if-array-is-good) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/u1krsh/DSA/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/u1krsh/DSA/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/u1krsh/DSA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/u1krsh/DSA/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/u1krsh/DSA/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/u1krsh/DSA/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
