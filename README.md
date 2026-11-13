@@ -16,6 +16,7 @@
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/u1krsh/DSA/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/u1krsh/DSA/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/u1krsh/DSA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/u1krsh/DSA/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/u1krsh/DSA/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/u1krsh/DSA/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/u1krsh/DSA/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
@@ -69,6 +70,7 @@
 | [0224-basic-calculator](https://github.com/u1krsh/DSA/tree/master/0224-basic-calculator) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/u1krsh/DSA/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/u1krsh/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/u1krsh/DSA/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 ## Greedy
 |  |
 | ------- |
@@ -145,6 +147,7 @@
 |  |
 | ------- |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/u1krsh/DSA/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/u1krsh/DSA/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 | [4209-palindromic-path-queries-in-a-tree](https://github.com/u1krsh/DSA/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Dynamic Programming
 |  |
@@ -201,9 +204,22 @@
 ## Sliding Window
 |  |
 | ------- |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/u1krsh/DSA/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/u1krsh/DSA/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Counting
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/u1krsh/DSA/tree/master/1396-count-servers-that-communicate) |
+## Queue
+|  |
+| ------- |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/u1krsh/DSA/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/u1krsh/DSA/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/u1krsh/DSA/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
