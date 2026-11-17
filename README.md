@@ -61,6 +61,7 @@
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/u1krsh/DSA/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/u1krsh/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2496-count-days-spent-together](https://github.com/u1krsh/DSA/tree/master/2496-count-days-spent-together) |
+| [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/u1krsh/DSA/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
 | [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/u1krsh/DSA/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4209-palindromic-path-queries-in-a-tree](https://github.com/u1krsh/DSA/tree/master/4209-palindromic-path-queries-in-a-tree) |
 | [4220-minimum-operations-to-sort-a-string](https://github.com/u1krsh/DSA/tree/master/4220-minimum-operations-to-sort-a-string) |
@@ -153,6 +154,7 @@
 |  |
 | ------- |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/u1krsh/DSA/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/u1krsh/DSA/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/u1krsh/DSA/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3938-twisted-mirror-path-count](https://github.com/u1krsh/DSA/tree/master/3938-twisted-mirror-path-count) |
 | [4041-climbing-stairs-ii](https://github.com/u1krsh/DSA/tree/master/4041-climbing-stairs-ii) |
@@ -222,4 +224,8 @@
 |  |
 | ------- |
 | [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/u1krsh/DSA/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
+## Two Pointers
+|  |
+| ------- |
+| [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/u1krsh/DSA/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
 <!---LeetCode Topics End-->
