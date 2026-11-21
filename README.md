@@ -16,6 +16,7 @@
 | [2892-check-if-array-is-good](https://github.com/u1krsh/DSA/tree/master/2892-check-if-array-is-good) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/u1krsh/DSA/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/u1krsh/DSA/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/u1krsh/DSA/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/u1krsh/DSA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/u1krsh/DSA/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/u1krsh/DSA/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -47,6 +48,7 @@
 | [2418-minimum-sum-of-squared-difference](https://github.com/u1krsh/DSA/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/u1krsh/DSA/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2892-check-if-array-is-good](https://github.com/u1krsh/DSA/tree/master/2892-check-if-array-is-good) |
+| [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/u1krsh/DSA/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/u1krsh/DSA/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/u1krsh/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Simulation
@@ -158,6 +160,7 @@
 | ------- |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/u1krsh/DSA/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/u1krsh/DSA/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
+| [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/u1krsh/DSA/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/u1krsh/DSA/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3938-twisted-mirror-path-count](https://github.com/u1krsh/DSA/tree/master/3938-twisted-mirror-path-count) |
 | [4041-climbing-stairs-ii](https://github.com/u1krsh/DSA/tree/master/4041-climbing-stairs-ii) |
