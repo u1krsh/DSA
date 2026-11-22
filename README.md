@@ -64,6 +64,7 @@
 | [0763-special-binary-string](https://github.com/u1krsh/DSA/tree/master/0763-special-binary-string) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/u1krsh/DSA/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/u1krsh/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/u1krsh/DSA/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2496-count-days-spent-together](https://github.com/u1krsh/DSA/tree/master/2496-count-days-spent-together) |
 | [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/u1krsh/DSA/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
 | [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/u1krsh/DSA/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
