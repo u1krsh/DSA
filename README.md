@@ -26,6 +26,7 @@
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/u1krsh/DSA/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [4041-climbing-stairs-ii](https://github.com/u1krsh/DSA/tree/master/4041-climbing-stairs-ii) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/u1krsh/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
+| [4105-smallest-unique-subarray](https://github.com/u1krsh/DSA/tree/master/4105-smallest-unique-subarray) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/u1krsh/DSA/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/u1krsh/DSA/tree/master/4184-minimum-operations-to-sort-a-permutation) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/u1krsh/DSA/tree/master/4205-minimum-xor-path-in-a-grid) |
@@ -40,6 +41,7 @@
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/u1krsh/DSA/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/u1krsh/DSA/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/u1krsh/DSA/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
+| [4105-smallest-unique-subarray](https://github.com/u1krsh/DSA/tree/master/4105-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 |  |
 | ------- |
 | [2418-minimum-sum-of-squared-difference](https://github.com/u1krsh/DSA/tree/master/2418-minimum-sum-of-squared-difference) |
+| [4105-smallest-unique-subarray](https://github.com/u1krsh/DSA/tree/master/4105-smallest-unique-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -235,4 +238,16 @@
 |  |
 | ------- |
 | [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/u1krsh/DSA/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
+## Rolling Hash
+|  |
+| ------- |
+| [4105-smallest-unique-subarray](https://github.com/u1krsh/DSA/tree/master/4105-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [4105-smallest-unique-subarray](https://github.com/u1krsh/DSA/tree/master/4105-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [4105-smallest-unique-subarray](https://github.com/u1krsh/DSA/tree/master/4105-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
