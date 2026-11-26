@@ -59,6 +59,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/u1krsh/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2428-equal-row-and-column-pairs](https://github.com/u1krsh/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/u1krsh/DSA/tree/master/2684-determine-the-winner-of-a-bowling-game) |
+| [3625-stone-removal-game](https://github.com/u1krsh/DSA/tree/master/3625-stone-removal-game) |
 ## String
 |  |
 | ------- |
@@ -119,6 +120,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/u1krsh/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/u1krsh/DSA/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2496-count-days-spent-together](https://github.com/u1krsh/DSA/tree/master/2496-count-days-spent-together) |
+| [3625-stone-removal-game](https://github.com/u1krsh/DSA/tree/master/3625-stone-removal-game) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/u1krsh/DSA/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/u1krsh/DSA/tree/master/4084-maximize-sum-of-squares-of-digits) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/u1krsh/DSA/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
