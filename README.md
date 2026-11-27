@@ -107,6 +107,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/u1krsh/DSA/tree/master/0441-arranging-coins) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/u1krsh/DSA/tree/master/2418-minimum-sum-of-squared-difference) |
 | [4105-smallest-unique-subarray](https://github.com/u1krsh/DSA/tree/master/4105-smallest-unique-subarray) |
 ## Heap (Priority Queue)
@@ -127,6 +128,7 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/u1krsh/DSA/tree/master/0224-basic-calculator) |
+| [0441-arranging-coins](https://github.com/u1krsh/DSA/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/u1krsh/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/u1krsh/DSA/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2496-count-days-spent-together](https://github.com/u1krsh/DSA/tree/master/2496-count-days-spent-together) |
