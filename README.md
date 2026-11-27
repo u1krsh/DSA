@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/u1krsh/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/u1krsh/DSA/tree/master/0018-4sum) |
 | [0128-longest-consecutive-sequence](https://github.com/u1krsh/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/u1krsh/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -46,6 +47,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/u1krsh/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/u1krsh/DSA/tree/master/0018-4sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/u1krsh/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0763-special-binary-string](https://github.com/u1krsh/DSA/tree/master/0763-special-binary-string) |
@@ -241,6 +243,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/u1krsh/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/u1krsh/DSA/tree/master/0018-4sum) |
 | [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/u1krsh/DSA/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
 ## Rolling Hash
