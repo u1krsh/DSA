@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/u1krsh/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/u1krsh/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/u1krsh/DSA/tree/master/0018-4sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/u1krsh/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -94,6 +95,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/u1krsh/DSA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/u1krsh/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/u1krsh/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/u1krsh/DSA/tree/master/0561-array-partition) |
@@ -258,6 +260,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/u1krsh/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/u1krsh/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/u1krsh/DSA/tree/master/0018-4sum) |
 | [0455-assign-cookies](https://github.com/u1krsh/DSA/tree/master/0455-assign-cookies) |
