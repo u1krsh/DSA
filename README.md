@@ -188,6 +188,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/u1krsh/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0629-k-inverse-pairs-array](https://github.com/u1krsh/DSA/tree/master/0629-k-inverse-pairs-array) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/u1krsh/DSA/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/u1krsh/DSA/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/u1krsh/DSA/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
