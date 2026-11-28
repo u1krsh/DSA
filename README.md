@@ -25,6 +25,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/u1krsh/DSA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/u1krsh/DSA/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/u1krsh/DSA/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3745-maximum-number-of-items-from-sale-ii](https://github.com/u1krsh/DSA/tree/master/3745-maximum-number-of-items-from-sale-ii) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/u1krsh/DSA/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/u1krsh/DSA/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3938-twisted-mirror-path-count](https://github.com/u1krsh/DSA/tree/master/3938-twisted-mirror-path-count) |
@@ -60,6 +61,7 @@
 | [2706-minimum-score-by-changing-two-elements](https://github.com/u1krsh/DSA/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2892-check-if-array-is-good](https://github.com/u1krsh/DSA/tree/master/2892-check-if-array-is-good) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/u1krsh/DSA/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3745-maximum-number-of-items-from-sale-ii](https://github.com/u1krsh/DSA/tree/master/3745-maximum-number-of-items-from-sale-ii) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/u1krsh/DSA/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/u1krsh/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Simulation
@@ -99,6 +101,7 @@
 | [2418-minimum-sum-of-squared-difference](https://github.com/u1krsh/DSA/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/u1krsh/DSA/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/u1krsh/DSA/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3745-maximum-number-of-items-from-sale-ii](https://github.com/u1krsh/DSA/tree/master/3745-maximum-number-of-items-from-sale-ii) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/u1krsh/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/u1krsh/DSA/tree/master/4084-maximize-sum-of-squares-of-digits) |
 | [4147-minimum-cost-to-acquire-required-items](https://github.com/u1krsh/DSA/tree/master/4147-minimum-cost-to-acquire-required-items) |
@@ -118,6 +121,7 @@
 | [2012-process-tasks-using-servers](https://github.com/u1krsh/DSA/tree/master/2012-process-tasks-using-servers) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/u1krsh/DSA/tree/master/2418-minimum-sum-of-squared-difference) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/u1krsh/DSA/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3745-maximum-number-of-items-from-sale-ii](https://github.com/u1krsh/DSA/tree/master/3745-maximum-number-of-items-from-sale-ii) |
 | [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/u1krsh/DSA/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bit Manipulation
 |  |
