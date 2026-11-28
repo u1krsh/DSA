@@ -9,6 +9,7 @@
 | [0018-4sum](https://github.com/u1krsh/DSA/tree/master/0018-4sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/u1krsh/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/u1krsh/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0321-create-maximum-number](https://github.com/u1krsh/DSA/tree/master/0321-create-maximum-number) |
 | [0455-assign-cookies](https://github.com/u1krsh/DSA/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/u1krsh/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/u1krsh/DSA/tree/master/0561-array-partition) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/u1krsh/DSA/tree/master/0224-basic-calculator) |
+| [0321-create-maximum-number](https://github.com/u1krsh/DSA/tree/master/0321-create-maximum-number) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/u1krsh/DSA/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/u1krsh/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/u1krsh/DSA/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
@@ -97,6 +99,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/u1krsh/DSA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/u1krsh/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0321-create-maximum-number](https://github.com/u1krsh/DSA/tree/master/0321-create-maximum-number) |
 | [0455-assign-cookies](https://github.com/u1krsh/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/u1krsh/DSA/tree/master/0561-array-partition) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/u1krsh/DSA/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
@@ -252,6 +255,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/u1krsh/DSA/tree/master/0321-create-maximum-number) |
 | [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/u1krsh/DSA/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
@@ -263,6 +267,7 @@
 | [0011-container-with-most-water](https://github.com/u1krsh/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/u1krsh/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/u1krsh/DSA/tree/master/0018-4sum) |
+| [0321-create-maximum-number](https://github.com/u1krsh/DSA/tree/master/0321-create-maximum-number) |
 | [0455-assign-cookies](https://github.com/u1krsh/DSA/tree/master/0455-assign-cookies) |
 | [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/u1krsh/DSA/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
 ## Rolling Hash
